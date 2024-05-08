@@ -576,6 +576,8 @@
       <elf-symbol name='__SCT__tp_func_kvm_vmgexit_msr_protocol_exit' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xcff45f4'/>
       <elf-symbol name='__SCT__tp_func_kvm_write_tsc_offset' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xa84a2e73'/>
       <elf-symbol name='__SCT__tp_func_mc_event' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xc91ee1b5'/>
+      <elf-symbol name='__SCT__tp_func_mm_filemap_add_to_page_cache' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xbd5668cf'/>
+      <elf-symbol name='__SCT__tp_func_mm_filemap_delete_from_page_cache' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xc1f18121'/>
       <elf-symbol name='__SCT__tp_func_mm_page_alloc' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0x151c59b3'/>
       <elf-symbol name='__SCT__tp_func_mm_vmscan_direct_reclaim_begin' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0x99be00a5'/>
       <elf-symbol name='__SCT__tp_func_mm_vmscan_direct_reclaim_end' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xe00fd906'/>
